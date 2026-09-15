@@ -37,8 +37,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawllo01&layout=compact" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pawllo01&show_icons=true" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pawllo01&layout=compact" />
+  <img src="https://github-stats-extended.vercel.app/api?username=pawllo01&show_icons=true" />
 </p>
 
 ## 🌐 Connect with me
